@@ -17,6 +17,7 @@ public class Main {
 		edad=sc.nextInt();
 		mayor=(edad >=18)?" eres mayor de edad":" eres menor de edad";
 		System.out.println("tienes: "+edad+mayor);
+		System.out.println("gracias por usar el programa");
 		
 		
 		
